@@ -71,7 +71,7 @@ int main(){
 	int shmid;
 	int *shared_memory;
 	int shmkey = getuid();
-	const unsigned count = 20;
+	const unsigned count = 33;
 	
 	shmid = shmget(shmkey, count*sizeof(int), 0633|IPC_CREAT);
 	shared_memory = (int*)shmat(shmid,NULL,0);
@@ -91,6 +91,7 @@ int main(){
 			is_sorted = true;
 			std::cout << "After\n";
 			print(shared_memory, count);
+			return 0;
 		}
 		
 	}
