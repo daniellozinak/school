@@ -81,16 +81,19 @@ int main(){
 	print(shared_memory, count);
 	parallel_sort(shared_memory,count);
 	
-	shmctl(shmid, IPC_RMID, 0);
 	int status;
+	int max_return_value = 0;
 	unsigned no_swap_count = 0; // if no_swap_count = count -1, its sorted
 	while(waitpid(-1,&status,0)>0){
 		int return_value = status >> 8;
+		max_return_value = (return_value > max_return_value)? return_value: max_return_value;
 		no_swap_count = (return_value == 0)? no_swap_count + 1: 0;
 		if( no_swap_count == count -1) {
 			is_sorted = true;
 			std::cout << "After\n";
 			print(shared_memory, count);
+			std::cout << "swaps needs: " << max_return_value << "\n";
+			shmctl(shmid, IPC_RMID, 0);
 			return 0;
 		}
 		
