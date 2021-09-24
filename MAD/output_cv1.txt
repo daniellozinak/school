@@ -1,144 +1,144 @@
 [1]  {- , - , - , -                              } play: true supp: 1.000000 conf: 0.000000
-[2]  {- , - , - , true                           } play: true supp: 0.000000 conf: 0.000000
-[3]  {- , - , - , false                          } play: true supp: 0.000000 conf: 0.000000
+[2]  {- , - , - , TRUE                           } play: true supp: 0.428571 conf: 0.500000
+[3]  {- , - , - , FALSE                          } play: true supp: 0.571429 conf: 0.750000
 [4]  {- , - , high , -                           } play: true supp: 0.500000 conf: 0.428571
-[5]  {- , - , high , true                        } play: true supp: 0.000000 conf: 0.000000
-[6]  {- , - , high , false                       } play: true supp: 0.000000 conf: 0.000000
+[5]  {- , - , high , TRUE                        } play: true supp: 0.214286 conf: 2.000000
+[6]  {- , - , high , FALSE                       } play: true supp: 0.285714 conf: 2.250000
 [7]  {- , - , normal , -                         } play: true supp: 0.500000 conf: 0.857143
-[8]  {- , - , normal , true                      } play: true supp: 0.000000 conf: 0.000000
-[9]  {- , - , normal , false                     } play: true supp: 0.000000 conf: 0.000000
+[8]  {- , - , normal , TRUE                      } play: true supp: 0.214286 conf: 3.000000
+[9]  {- , - , normal , FALSE                     } play: true supp: 0.285714 conf: 3.000000
 [10] {- , hot , - , -                            } play: true supp: 0.285714 conf: 0.500000
-[11] {- , hot , - , true                         } play: true supp: 0.000000 conf: 0.000000
-[12] {- , hot , - , false                        } play: true supp: 0.000000 conf: 0.000000
+[11] {- , hot , - , TRUE                         } play: true supp: 0.071429 conf: 5.000000
+[12] {- , hot , - , FALSE                        } play: true supp: 0.214286 conf: 2.666667
 [13] {- , hot , high , -                         } play: true supp: 0.214286 conf: 1.666667
-[14] {- , hot , high , true                      } play: true supp: 0.000000 conf: 0.000000
-[15] {- , hot , high , false                     } play: true supp: 0.000000 conf: 0.000000
+[14] {- , hot , high , TRUE                      } play: true supp: 0.071429 conf: 8.000000
+[15] {- , hot , high , FALSE                     } play: true supp: 0.142857 conf: 5.500000
 [16] {- , hot , normal , -                       } play: true supp: 0.071429 conf: 8.000000
-[17] {- , hot , normal , true                    } play: true supp: 0.000000 conf: 0.000000
-[18] {- , hot , normal , false                   } play: true supp: 0.000000 conf: 0.000000
+[17] {- , hot , normal , TRUE                    } play: true supp: 0.000000 conf: 0.000000
+[18] {- , hot , normal , FALSE                   } play: true supp: 0.071429 conf: 14.000000
 [19] {- , mild , - , -                           } play: true supp: 0.428571 conf: 0.666667
-[20] {- , mild , - , true                        } play: true supp: 0.000000 conf: 0.000000
-[21] {- , mild , - , false                       } play: true supp: 0.000000 conf: 0.000000
+[20] {- , mild , - , TRUE                        } play: true supp: 0.214286 conf: 2.333333
+[21] {- , mild , - , FALSE                       } play: true supp: 0.214286 conf: 3.333333
 [22] {- , mild , high , -                        } play: true supp: 0.285714 conf: 1.750000
-[23] {- , mild , high , true                     } play: true supp: 0.000000 conf: 0.000000
-[24] {- , mild , high , false                    } play: true supp: 0.000000 conf: 0.000000
+[23] {- , mild , high , TRUE                     } play: true supp: 0.142857 conf: 5.000000
+[24] {- , mild , high , FALSE                    } play: true supp: 0.142857 conf: 6.500000
 [25] {- , mild , normal , -                      } play: true supp: 0.142857 conf: 5.000000
-[26] {- , mild , normal , true                   } play: true supp: 0.000000 conf: 0.000000
-[27] {- , mild , normal , false                  } play: true supp: 0.000000 conf: 0.000000
+[26] {- , mild , normal , TRUE                   } play: true supp: 0.071429 conf: 13.000000
+[27] {- , mild , normal , FALSE                  } play: true supp: 0.071429 conf: 16.000000
 [28] {- , cool , - , -                           } play: true supp: 0.285714 conf: 0.750000
-[29] {- , cool , - , true                        } play: true supp: 0.000000 conf: 0.000000
-[30] {- , cool , - , false                       } play: true supp: 0.000000 conf: 0.000000
+[29] {- , cool , - , TRUE                        } play: true supp: 0.142857 conf: 3.000000
+[30] {- , cool , - , FALSE                       } play: true supp: 0.142857 conf: 4.500000
 [31] {- , cool , high , -                        } play: true supp: 0.000000 conf: 0.000000
-[32] {- , cool , high , true                     } play: true supp: 0.000000 conf: 0.000000
-[33] {- , cool , high , false                    } play: true supp: 0.000000 conf: 0.000000
+[32] {- , cool , high , TRUE                     } play: true supp: 0.000000 conf: 0.000000
+[33] {- , cool , high , FALSE                    } play: true supp: 0.000000 conf: 0.000000
 [34] {- , cool , normal , -                      } play: true supp: 0.285714 conf: 2.250000
-[35] {- , cool , normal , true                   } play: true supp: 0.000000 conf: 0.000000
-[36] {- , cool , normal , false                  } play: true supp: 0.000000 conf: 0.000000
+[35] {- , cool , normal , TRUE                   } play: true supp: 0.142857 conf: 6.000000
+[36] {- , cool , normal , FALSE                  } play: true supp: 0.142857 conf: 7.500000
 [37] {sunny , - , - , -                          } play: true supp: 0.357143 conf: 0.400000
-[38] {sunny , - , - , true                       } play: true supp: 0.000000 conf: 0.000000
-[39] {sunny , - , - , false                      } play: true supp: 0.000000 conf: 0.000000
+[38] {sunny , - , - , TRUE                       } play: true supp: 0.142857 conf: 2.500000
+[39] {sunny , - , - , FALSE                      } play: true supp: 0.214286 conf: 2.666667
 [40] {sunny , - , high , -                       } play: false supp: 0.214286 conf: 1.666667
-[41] {sunny , - , high , true                    } play: false supp: 0.000000 conf: 0.000000
-[42] {sunny , - , high , false                   } play: false supp: 0.000000 conf: 0.000000
+[41] {sunny , - , high , TRUE                    } play: false supp: 0.071429 conf: 8.000000
+[42] {sunny , - , high , FALSE                   } play: false supp: 0.142857 conf: 5.500000
 [43] {sunny , - , normal , -                     } play: true supp: 0.142857 conf: 4.000000
-[44] {sunny , - , normal , true                  } play: true supp: 0.000000 conf: 0.000000
-[45] {sunny , - , normal , false                 } play: true supp: 0.000000 conf: 0.000000
+[44] {sunny , - , normal , TRUE                  } play: true supp: 0.071429 conf: 11.000000
+[45] {sunny , - , normal , FALSE                 } play: true supp: 0.071429 conf: 14.000000
 [46] {sunny , hot , - , -                        } play: true supp: 0.142857 conf: 2.000000
-[47] {sunny , hot , - , true                     } play: true supp: 0.000000 conf: 0.000000
-[48] {sunny , hot , - , false                    } play: true supp: 0.000000 conf: 0.000000
+[47] {sunny , hot , - , TRUE                     } play: true supp: 0.071429 conf: 7.000000
+[48] {sunny , hot , - , FALSE                    } play: true supp: 0.071429 conf: 10.000000
 [49] {sunny , hot , high , -                     } play: false supp: 0.142857 conf: 3.500000
-[50] {sunny , hot , high , true                  } play: false supp: 0.000000 conf: 0.000000
-[51] {sunny , hot , high , false                 } play: false supp: 0.000000 conf: 0.000000
+[50] {sunny , hot , high , TRUE                  } play: false supp: 0.071429 conf: 10.000000
+[51] {sunny , hot , high , FALSE                 } play: false supp: 0.071429 conf: 13.000000
 [52] {sunny , hot , normal , -                   } play: true supp: 0.000000 conf: 0.000000
-[53] {sunny , hot , normal , true                } play: true supp: 0.000000 conf: 0.000000
-[54] {sunny , hot , normal , false               } play: true supp: 0.000000 conf: 0.000000
+[53] {sunny , hot , normal , TRUE                } play: true supp: 0.000000 conf: 0.000000
+[54] {sunny , hot , normal , FALSE               } play: true supp: 0.000000 conf: 0.000000
 [55] {sunny , mild , - , -                       } play: true supp: 0.142857 conf: 3.000000
-[56] {sunny , mild , - , true                    } play: true supp: 0.000000 conf: 0.000000
-[57] {sunny , mild , - , false                   } play: true supp: 0.000000 conf: 0.000000
+[56] {sunny , mild , - , TRUE                    } play: true supp: 0.071429 conf: 9.000000
+[57] {sunny , mild , - , FALSE                   } play: true supp: 0.071429 conf: 12.000000
 [58] {sunny , mild , high , -                    } play: false supp: 0.071429 conf: 9.000000
-[59] {sunny , mild , high , true                 } play: false supp: 0.000000 conf: 0.000000
-[60] {sunny , mild , high , false                } play: false supp: 0.000000 conf: 0.000000
+[59] {sunny , mild , high , TRUE                 } play: false supp: 0.000000 conf: 0.000000
+[60] {sunny , mild , high , FALSE                } play: false supp: 0.071429 conf: 15.000000
 [61] {sunny , mild , normal , -                  } play: true supp: 0.071429 conf: 12.000000
-[62] {sunny , mild , normal , true               } play: true supp: 0.000000 conf: 0.000000
-[63] {sunny , mild , normal , false              } play: true supp: 0.000000 conf: 0.000000
+[62] {sunny , mild , normal , TRUE               } play: true supp: 0.071429 conf: 15.000000
+[63] {sunny , mild , normal , FALSE              } play: true supp: 0.000000 conf: 0.000000
 [64] {sunny , cool , - , -                       } play: true supp: 0.071429 conf: 5.000000
-[65] {sunny , cool , - , true                    } play: true supp: 0.000000 conf: 0.000000
-[66] {sunny , cool , - , false                   } play: true supp: 0.000000 conf: 0.000000
+[65] {sunny , cool , - , TRUE                    } play: true supp: 0.000000 conf: 0.000000
+[66] {sunny , cool , - , FALSE                   } play: true supp: 0.071429 conf: 11.000000
 [67] {sunny , cool , high , -                    } play: false supp: 0.000000 conf: 0.000000
-[68] {sunny , cool , high , true                 } play: false supp: 0.000000 conf: 0.000000
-[69] {sunny , cool , high , false                } play: false supp: 0.000000 conf: 0.000000
+[68] {sunny , cool , high , TRUE                 } play: false supp: 0.000000 conf: 0.000000
+[69] {sunny , cool , high , FALSE                } play: false supp: 0.000000 conf: 0.000000
 [70] {sunny , cool , normal , -                  } play: true supp: 0.071429 conf: 11.000000
-[71] {sunny , cool , normal , true               } play: true supp: 0.000000 conf: 0.000000
-[72] {sunny , cool , normal , false              } play: true supp: 0.000000 conf: 0.000000
+[71] {sunny , cool , normal , TRUE               } play: true supp: 0.000000 conf: 0.000000
+[72] {sunny , cool , normal , FALSE              } play: true supp: 0.071429 conf: 17.000000
 [73] {overcast , - , - , -                       } play: true supp: 0.285714 conf: 1.000000
-[74] {overcast , - , - , true                    } play: true supp: 0.000000 conf: 0.000000
-[75] {overcast , - , - , false                   } play: true supp: 0.000000 conf: 0.000000
+[74] {overcast , - , - , TRUE                    } play: true supp: 0.142857 conf: 3.500000
+[75] {overcast , - , - , FALSE                   } play: true supp: 0.142857 conf: 5.000000
 [76] {overcast , - , high , -                    } play: true supp: 0.142857 conf: 3.500000
-[77] {overcast , - , high , true                 } play: true supp: 0.000000 conf: 0.000000
-[78] {overcast , - , high , false                } play: true supp: 0.000000 conf: 0.000000
+[77] {overcast , - , high , TRUE                 } play: true supp: 0.071429 conf: 10.000000
+[78] {overcast , - , high , FALSE                } play: true supp: 0.071429 conf: 13.000000
 [79] {overcast , - , normal , -                  } play: true supp: 0.142857 conf: 5.000000
-[80] {overcast , - , normal , true               } play: true supp: 0.000000 conf: 0.000000
-[81] {overcast , - , normal , false              } play: true supp: 0.000000 conf: 0.000000
+[80] {overcast , - , normal , TRUE               } play: true supp: 0.071429 conf: 13.000000
+[81] {overcast , - , normal , FALSE              } play: true supp: 0.071429 conf: 16.000000
 [82] {overcast , hot , - , -                     } play: true supp: 0.142857 conf: 3.000000
-[83] {overcast , hot , - , true                  } play: true supp: 0.000000 conf: 0.000000
-[84] {overcast , hot , - , false                 } play: true supp: 0.000000 conf: 0.000000
+[83] {overcast , hot , - , TRUE                  } play: true supp: 0.000000 conf: 0.000000
+[84] {overcast , hot , - , FALSE                 } play: true supp: 0.142857 conf: 6.000000
 [85] {overcast , hot , high , -                  } play: true supp: 0.071429 conf: 9.000000
-[86] {overcast , hot , high , true               } play: true supp: 0.000000 conf: 0.000000
-[87] {overcast , hot , high , false              } play: true supp: 0.000000 conf: 0.000000
+[86] {overcast , hot , high , TRUE               } play: true supp: 0.000000 conf: 0.000000
+[87] {overcast , hot , high , FALSE              } play: true supp: 0.071429 conf: 15.000000
 [88] {overcast , hot , normal , -                } play: true supp: 0.071429 conf: 12.000000
-[89] {overcast , hot , normal , true             } play: true supp: 0.000000 conf: 0.000000
-[90] {overcast , hot , normal , false            } play: true supp: 0.000000 conf: 0.000000
+[89] {overcast , hot , normal , TRUE             } play: true supp: 0.000000 conf: 0.000000
+[90] {overcast , hot , normal , FALSE            } play: true supp: 0.071429 conf: 18.000000
 [91] {overcast , mild , - , -                    } play: true supp: 0.071429 conf: 8.000000
-[92] {overcast , mild , - , true                 } play: true supp: 0.000000 conf: 0.000000
-[93] {overcast , mild , - , false                } play: true supp: 0.000000 conf: 0.000000
+[92] {overcast , mild , - , TRUE                 } play: true supp: 0.071429 conf: 11.000000
+[93] {overcast , mild , - , FALSE                } play: true supp: 0.000000 conf: 0.000000
 [94] {overcast , mild , high , -                 } play: true supp: 0.071429 conf: 11.000000
-[95] {overcast , mild , high , true              } play: true supp: 0.000000 conf: 0.000000
-[96] {overcast , mild , high , false             } play: true supp: 0.000000 conf: 0.000000
+[95] {overcast , mild , high , TRUE              } play: true supp: 0.071429 conf: 14.000000
+[96] {overcast , mild , high , FALSE             } play: true supp: 0.000000 conf: 0.000000
 [97] {overcast , mild , normal , -               } play: true supp: 0.000000 conf: 0.000000
-[98] {overcast , mild , normal , true            } play: true supp: 0.000000 conf: 0.000000
-[99] {overcast , mild , normal , false           } play: true supp: 0.000000 conf: 0.000000
+[98] {overcast , mild , normal , TRUE            } play: true supp: 0.000000 conf: 0.000000
+[99] {overcast , mild , normal , FALSE           } play: true supp: 0.000000 conf: 0.000000
 [100]{overcast , cool , - , -                    } play: true supp: 0.071429 conf: 7.000000
-[101]{overcast , cool , - , true                 } play: true supp: 0.000000 conf: 0.000000
-[102]{overcast , cool , - , false                } play: true supp: 0.000000 conf: 0.000000
+[101]{overcast , cool , - , TRUE                 } play: true supp: 0.071429 conf: 10.000000
+[102]{overcast , cool , - , FALSE                } play: true supp: 0.000000 conf: 0.000000
 [103]{overcast , cool , high , -                 } play: true supp: 0.000000 conf: 0.000000
-[104]{overcast , cool , high , true              } play: true supp: 0.000000 conf: 0.000000
-[105]{overcast , cool , high , false             } play: true supp: 0.000000 conf: 0.000000
+[104]{overcast , cool , high , TRUE              } play: true supp: 0.000000 conf: 0.000000
+[105]{overcast , cool , high , FALSE             } play: true supp: 0.000000 conf: 0.000000
 [106]{overcast , cool , normal , -               } play: true supp: 0.071429 conf: 13.000000
-[107]{overcast , cool , normal , true            } play: true supp: 0.000000 conf: 0.000000
-[108]{overcast , cool , normal , false           } play: true supp: 0.000000 conf: 0.000000
+[107]{overcast , cool , normal , TRUE            } play: true supp: 0.071429 conf: 16.000000
+[108]{overcast , cool , normal , FALSE           } play: true supp: 0.000000 conf: 0.000000
 [109]{rainy , - , - , -                          } play: true supp: 0.357143 conf: 0.600000
-[110]{rainy , - , - , true                       } play: false supp: 0.000000 conf: 0.000000
-[111]{rainy , - , - , false                      } play: true supp: 0.000000 conf: 0.000000
+[110]{rainy , - , - , TRUE                       } play: true supp: 0.142857 conf: 3.000000
+[111]{rainy , - , - , FALSE                      } play: true supp: 0.214286 conf: 3.000000
 [112]{rainy , - , high , -                       } play: true supp: 0.142857 conf: 3.000000
-[113]{rainy , - , high , true                    } play: false supp: 0.000000 conf: 0.000000
-[114]{rainy , - , high , false                   } play: true supp: 0.000000 conf: 0.000000
+[113]{rainy , - , high , TRUE                    } play: true supp: 0.071429 conf: 9.000000
+[114]{rainy , - , high , FALSE                   } play: true supp: 0.071429 conf: 12.000000
 [115]{rainy , - , normal , -                     } play: true supp: 0.214286 conf: 3.000000
-[116]{rainy , - , normal , true                  } play: false supp: 0.000000 conf: 0.000000
-[117]{rainy , - , normal , false                 } play: true supp: 0.000000 conf: 0.000000
+[116]{rainy , - , normal , TRUE                  } play: true supp: 0.071429 conf: 12.000000
+[117]{rainy , - , normal , FALSE                 } play: true supp: 0.142857 conf: 7.500000
 [118]{rainy , hot , - , -                        } play: true supp: 0.000000 conf: 0.000000
-[119]{rainy , hot , - , true                     } play: false supp: 0.000000 conf: 0.000000
-[120]{rainy , hot , - , false                    } play: true supp: 0.000000 conf: 0.000000
+[119]{rainy , hot , - , TRUE                     } play: true supp: 0.000000 conf: 0.000000
+[120]{rainy , hot , - , FALSE                    } play: true supp: 0.000000 conf: 0.000000
 [121]{rainy , hot , high , -                     } play: true supp: 0.000000 conf: 0.000000
-[122]{rainy , hot , high , true                  } play: false supp: 0.000000 conf: 0.000000
-[123]{rainy , hot , high , false                 } play: true supp: 0.000000 conf: 0.000000
+[122]{rainy , hot , high , TRUE                  } play: true supp: 0.000000 conf: 0.000000
+[123]{rainy , hot , high , FALSE                 } play: true supp: 0.000000 conf: 0.000000
 [124]{rainy , hot , normal , -                   } play: true supp: 0.000000 conf: 0.000000
-[125]{rainy , hot , normal , true                } play: false supp: 0.000000 conf: 0.000000
-[126]{rainy , hot , normal , false               } play: true supp: 0.000000 conf: 0.000000
+[125]{rainy , hot , normal , TRUE                } play: true supp: 0.000000 conf: 0.000000
+[126]{rainy , hot , normal , FALSE               } play: true supp: 0.000000 conf: 0.000000
 [127]{rainy , mild , - , -                       } play: true supp: 0.214286 conf: 2.333333
-[128]{rainy , mild , - , true                    } play: false supp: 0.000000 conf: 0.000000
-[129]{rainy , mild , - , false                   } play: true supp: 0.000000 conf: 0.000000
+[128]{rainy , mild , - , TRUE                    } play: true supp: 0.071429 conf: 10.000000
+[129]{rainy , mild , - , FALSE                   } play: true supp: 0.142857 conf: 6.500000
 [130]{rainy , mild , high , -                    } play: true supp: 0.142857 conf: 5.000000
-[131]{rainy , mild , high , true                 } play: false supp: 0.000000 conf: 0.000000
-[132]{rainy , mild , high , false                } play: true supp: 0.000000 conf: 0.000000
+[131]{rainy , mild , high , TRUE                 } play: true supp: 0.071429 conf: 13.000000
+[132]{rainy , mild , high , FALSE                } play: true supp: 0.071429 conf: 16.000000
 [133]{rainy , mild , normal , -                  } play: true supp: 0.071429 conf: 13.000000
-[134]{rainy , mild , normal , true               } play: false supp: 0.000000 conf: 0.000000
-[135]{rainy , mild , normal , false              } play: true supp: 0.000000 conf: 0.000000
+[134]{rainy , mild , normal , TRUE               } play: true supp: 0.000000 conf: 0.000000
+[135]{rainy , mild , normal , FALSE              } play: true supp: 0.071429 conf: 19.000000
 [136]{rainy , cool , - , -                       } play: true supp: 0.142857 conf: 3.000000
-[137]{rainy , cool , - , true                    } play: false supp: 0.000000 conf: 0.000000
-[138]{rainy , cool , - , false                   } play: true supp: 0.000000 conf: 0.000000
+[137]{rainy , cool , - , TRUE                    } play: true supp: 0.071429 conf: 9.000000
+[138]{rainy , cool , - , FALSE                   } play: true supp: 0.071429 conf: 12.000000
 [139]{rainy , cool , high , -                    } play: true supp: 0.000000 conf: 0.000000
-[140]{rainy , cool , high , true                 } play: false supp: 0.000000 conf: 0.000000
-[141]{rainy , cool , high , false                } play: true supp: 0.000000 conf: 0.000000
+[140]{rainy , cool , high , TRUE                 } play: true supp: 0.000000 conf: 0.000000
+[141]{rainy , cool , high , FALSE                } play: true supp: 0.000000 conf: 0.000000
 [142]{rainy , cool , normal , -                  } play: true supp: 0.142857 conf: 6.000000
-[143]{rainy , cool , normal , true               } play: false supp: 0.000000 conf: 0.000000
-[144]{rainy , cool , normal , false              } play: true supp: 0.000000 conf: 0.000000
+[143]{rainy , cool , normal , TRUE               } play: true supp: 0.071429 conf: 15.000000
+[144]{rainy , cool , normal , FALSE              } play: true supp: 0.071429 conf: 18.000000
