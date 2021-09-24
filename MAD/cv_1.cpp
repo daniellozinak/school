@@ -51,17 +51,20 @@ double calculate_supp(std::string permutation[4]) {
 double calculate_conf(std::string permutation[4]){
 	unsigned c_max = 0;
 	unsigned r = get_r(permutation);
-	if (r == 0) { return 0;}
-	for(int i = 0; i < count; i ++){
+	if (r == 0)  {return 0;}
+	for(int i = 0; i < count;i++){
+		bool contains = true;
 		for(int j = 0; j < 4; j++){
 			if(permutation[j] != "-"){
-				if(data[i].find(permutation[j]) != std::string::npos && data[i].find("yes") != std::string::npos) {
-					c_max ++;
+				if(data[i].find(permutation[j]) == std::string::npos) {
+					contains = false;
 				}	
 			}
 		}
+		if (data[i].find("yes") != std::string::npos && contains){
+			c_max ++;
+		}
 	}
-
 	return c_max/ (double) r;
 }
 
